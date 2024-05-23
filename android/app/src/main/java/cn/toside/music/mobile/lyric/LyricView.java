@@ -60,7 +60,7 @@ public class LyricView extends Activity implements View.OnTouchListener {
   private String textX = "LEFT";
   private String textY = "TOP";
   private float alpha = 1f;
-  private float textSize = 18f;
+  private float textSize = 10f;
   private int maxWidth = 0;
   private int maxHeight = 0;
 
